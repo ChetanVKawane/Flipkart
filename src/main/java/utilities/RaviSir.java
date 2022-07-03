@@ -34,6 +34,7 @@ public class RaviSir {
 			}
 		}
 		driver.findElement(By.xpath("//button[text()=\""+date+"\"]")).click();
+		// How not to add the project
 		
 			
 		}
